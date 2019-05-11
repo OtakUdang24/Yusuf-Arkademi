@@ -34,8 +34,8 @@ Kegunaan JSON pada REST API : - digunakan untuk melakukan pertukaran data antara
 - Copy paste kode tersebut ke onlinegdb.com.
 - Maka hasilnya berupa karakter acak sebanyak jumlah yang diinput di parameter.
 
-### No 6 (Add Skill).
-Untuk menjalankan aplikasi Add Skill, lakukan langkah berikut
+### No 6 (arkademitest).
+Untuk menjalankan aplikasi arkademitest, lakukan langkah berikut
 - Aktifkan web server (apache) atau XAMPP.
 - Import file sql di dalam folder arkademitest ke phpmyadmin.
 - Pindahkan folder arkademites ke folder HTDOCS dari aplikasi XAMPP.
@@ -43,7 +43,7 @@ Untuk menjalankan aplikasi Add Skill, lakukan langkah berikut
 - Aplikasi sudah bisa digunakan.
 
 Demo Aplikasi:
-![Demo Aplikasi](img/sss.png)
+![Demo Aplikasi](img/demo.png)
 
 ##### Credits
 Thanks to Arkademy.
