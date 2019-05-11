@@ -58,7 +58,7 @@ function is_email_valid($str){
 
 
 }
-$str = "zer.null";
+$str = "zeronull";
 is_username_valid($str); echo "\n";
 $str = "kamu@aku.com";  
 is_email_valid($str); echo "\n";
