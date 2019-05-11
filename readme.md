@@ -11,9 +11,11 @@ Jawaban No 1 - 5, bisa dijalankan melalui:
 - Maka hasilnya akan muncul berupa data json.
 
 Note:
-REST API itu adalah fungsi" yang dapat dipanggil dan menghasilkan JSON/XML
-Kegunaan JSON pada REST API : - digunakan untuk melakukan pertukaran data antara bahasa pemrograman.
-                              - berinteraksi dengan aplikasi lain 
+### REST API itu :
+- Fungsi" yang dapat dipanggil dan menghasilkan JSON/XML
+### Kegunaan JSON pada REST API : 
+- digunakan untuk melakukan pertukaran data antara bahasa pemrograman.
+- berinteraksi dengan aplikasi lain 
 ### No 2
 - Buka code editor online: [onlinegdb.com](https://www.onlinegdb.com/).
 - Copy paste kode tersebut ke onlinegdb.com.

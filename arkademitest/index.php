@@ -1,6 +1,5 @@
 <?php
 ob_start();
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -34,7 +33,7 @@ ob_start();
                         $name = $_POST['name'];
                         $con    = new mysqli("localhost", "root", "", "arkatest");
                         $query  = $con->query("INSERT INTO users (name) VALUES('$name')");
-                        header("Location: http://localhost/arkademiTest2/soal6.php");
+                        header("Location: http://localhost/arkademitest/");
                     }
                 
                 ?>
@@ -80,7 +79,7 @@ ob_start();
                                 $id = $_POST['user_id'];
                                 $name = $_POST['nameSkill'];
                                 $query = $con->query("INSERT INTO skills(name,user_id) VALUES ('$name', '$id') ");
-                                header("Location: http://localhost/arkademiTest2/soal6.php");
+                                header("Location: http://localhost/arkademitest/");
                             }
                         
                         ?>
